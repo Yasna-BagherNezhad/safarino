@@ -10,7 +10,12 @@ Safarino is a comprehensive travel booking platform designed to simplify the pro
 As per the instructor's requirement, each member's branch and commit hash are listed below:
 
 ### 1. Seyedeh Yasna BagherNezhad (Team Leader)
-- Role: Project initialization and documentation structure.
+- Role: 
+    - Initialized the GitHub repository and project structure.
+    - Managed team coordination and task assignments.
+    - Created core project documentation (`about.md` and `README.md`).
+    - Handled Pull Request reviews and merging process for all team members.
+
 - Branch: `docs/yasna-project-intro`
 - Commit Hash: `6917537`
 
