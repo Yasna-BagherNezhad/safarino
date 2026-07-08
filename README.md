@@ -19,15 +19,20 @@ As per the instructor's requirement, each member's branch and commit hash are li
 - Branch: `docs/yasna-project-intro`
 - Commit Hash: `6917537`
 
-### 2. Mehrnaz [Last Name]
-- Role: [Pending Contribution]
-- Branch: `docs/mehrnaz-team-roles`
-- Commit Hash: [To be updated via PR]
+### 2. Mehrnaz Evazpour
+- Role: created the UI/UX design documentation
+- Branch: `docs/mehrnaz-UI-design`
+- Commit Hash: 1flef20
 
 ### 3. Atena JafariNezhad
 - Role: User Experience (UX) Analysis and Final Conclusion.
+ docs/atena-tech-stack
 - Branch: `docs/atena-tech-stack`
 - Commit Hash: `990d2b3`
+
+- Branch: `docs/athena-tech-stack`
+- Commit Hash: `dec3f7c`
+ main
 
 ### 4. Zahra [Last Name]
 - Role: [Pending Contribution]
