@@ -29,8 +29,8 @@ As per the instructor's requirement, each member's branch and commit hash are li
 - Branch: `docs/atena-tech-stack`
 - Commit Hash: `980d240`
 
-### 4. Zahra [Last Name]
-- Role: [Pending Contribution]
+### 4. Zahra Ashori
+- Role:  Final project report and conclusion
 - Branch: `docs/zahra-final-report`
 - Commit Hash: [To be updated via PR]
 
