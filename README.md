@@ -27,7 +27,7 @@ As per the instructor's requirement, each member's branch and commit hash are li
 ### 3. Atena JafariNezhad
 - Role: User Experience (UX) Analysis and Final Conclusion.
 - Branch: `docs/atena-tech-stack`
-- Commit Hash: `980d240`
+- Commit Hash: `a4ee6bf`
 
 ### 4. Zahra [Last Name]
 - Role: [Pending Contribution]
