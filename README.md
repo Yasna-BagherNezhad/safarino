@@ -24,7 +24,7 @@ As per the instructor's requirement, each member's branch and commit hash are li
 - Branch: `docs/mehrnaz-team-roles`
 - Commit Hash: [To be updated via PR]
 
-### 3. Athena [Last Name]
+### 3. Atena JafariNezhad
 - Role: User Experience (UX) Analysis and Final Conclusion.
 - Branch: `docs/atena-tech-stack`
 - Commit Hash: `a4ee6bf`
