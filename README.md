@@ -32,7 +32,7 @@ As per the instructor's requirement, each member's branch and commit hash are li
 ### 4. Zahra Ashori
 - Role:  Final project report and conclusion
 - Branch: `docs/zahra-final-report`
-- Commit Hash: [To be updated via PR]
+- Commit Hash:  b78505f
 
 ---
 📅 Date: July 2026
